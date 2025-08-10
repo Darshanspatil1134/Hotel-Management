@@ -60,7 +60,7 @@ function AboutUs() {
         <ul className="grid sm:grid-cols-2  lg:grid-cols-3 gap-6 text-lg">
           
         
-          <li className="bg-sky-700 transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:-rotate-2  hover:bg-teal-700 p-4 rounded shadow transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-lg hover:-translate-y-1">✓ Prime Location in Goa</li>
+          <li className="bg-sky-700 transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:-rotate-2  hover:bg-teal-700 p-4 rounded shadow transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-lg hover:-translate-y-1">✓ Prime Location in Nashik</li>
           <li className=" bg-sky-700 transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:-rotate-2 hover:bg-teal-700 p-4 rounded shadow transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-lg hover:-translate-y-1">✓ Luxurious Rooms & Suites</li>
           <li className="bg-sky-700 transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:-rotate-2 hover:bg-teal-700 p-4 rounded shadow transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-lg hover:-translate-y-1">✓ Multi-Cuisine Restaurants</li>
           <li className="bg-sky-700 transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:-rotate-2 hover:bg-teal-700 p-4 rounded shadow transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-lg hover:-translate-y-1">✓ Swimming Pool & Spa</li>

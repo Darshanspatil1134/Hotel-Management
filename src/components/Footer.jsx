@@ -5,7 +5,7 @@ function Footer() {
     <footer className="bg-black text-white py-10 px-6 md:px-20 mt-10">
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10">
         
-        {/* Company Info */}
+      
         <div>
           <h2 className="text-xl font-bold mb-3">Crest The Grand</h2>
           <p className="text-sm leading-relaxed">
@@ -19,7 +19,7 @@ function Footer() {
           </div>
         </div>
 
-        {/* Contact Info */}
+        
         <div>
           <h2 className="text-xl italic font-semibold mb-3">Contact Us</h2>
           <ul className="text-sm space-y-2">
@@ -29,7 +29,7 @@ function Footer() {
           </ul>
         </div>
 
-        {/* Useful Links */}
+        
         <div>
           <h2 className="text-xl font-semibold mb-3">Quick Links</h2>
           <ul className="text-sm space-y-2">
@@ -41,7 +41,7 @@ function Footer() {
           </ul>
         </div>
 
-        {/* Address / Location */}
+        
         <div>
           <h2 className="text-xl font-semibold mb-3">Directions to Reach</h2>
           <p className="text-sm leading-relaxed">
@@ -51,7 +51,6 @@ function Footer() {
 
       </div>
 
-      {/* Footer Bottom Bar */}
       <div className="text-center mt-10 border-t border-gray-700 pt-5 text-sm">
         ©️ 2025 Crest The Grand Hotels of Dreams. Developed by 
         <a href="https://Crest.in" className="text-yellow-400 ml-1 hover:underline" target="_blank" rel="noopener noreferrer">Team Crest</a>
