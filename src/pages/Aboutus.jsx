@@ -8,21 +8,21 @@ function AboutUs() {
       <div className="relative h-screen bg-cover bg-center flex items-center justify-center text-white">
         <video 
           className="absolute inset-0 w-full h-full object-cover"
-          src="/aboutus.mov" 
+          src="/aboutus.mp4" 
           autoPlay 
           loop 
           muted 
         />
         <div className="absolute inset-0 bg-black opacity-30"></div>
         <h1 className="relative text-4xl font-bold text-white px-6 py-2 rounded">
-          About Crest's Hotels
+          About Crest Hotels
         </h1>
       </div>
       <br />
 
      
       <section className="max-w-6xl rounded-4xl bg-blue-950 mx-auto px-6 py-12">
-        <h2 className="text-3xl font-bold italic mb-4">Welcome to Crest's Hotels</h2>
+        <h2 className="text-3xl font-bold italic mb-4">Welcome to Crest Hotels</h2>
         <p className="text-lg italic leading-relaxed mb-6">
           At Crest’s Hotels, we blend luxury with comfort to offer you an unforgettable hospitality experience. Located in the heart of Goa, our hotels are the epitome of elegance and warmth, catering to business and leisure travelers alike.
         </p>
@@ -72,7 +72,7 @@ function AboutUs() {
 
       
       <section className="bg-sky-900 hover:bg-teal-700 text-white text-center py-12 px-6">
-        <h4 className="text-2xl font-semibold mb-4">Experience the Best of Goa with Crest's</h4>
+        <h4 className="text-2xl font-semibold mb-4">Experience the Best of Goa with Crest</h4>
         <p className="mb-6 text-lg">Book your stay now and enjoy exclusive deals, comfort, and unmatched hospitality.</p>
         <button className="bg-white text-black px-6 py-2 font-semibold rounded hover:bg-gray-200">
           Book Now

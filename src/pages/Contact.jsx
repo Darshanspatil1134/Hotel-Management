@@ -30,7 +30,7 @@ function Contact() {
 
         <div className="grid md:grid-cols-2 gap-10 mt-10">
           <div>
-            {/* Contact Details Cards */}
+           
             <div className=" bg-blue-950  text-white p-6 hover:bg-teal-700 rounded-lg shadow-md mb-6 transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-xl">
               <h3 className="text-2xl font-semibold mb-2">Hotel Address</h3>
               <p className="mb-4">
