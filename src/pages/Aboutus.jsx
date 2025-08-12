@@ -8,7 +8,7 @@ function AboutUs() {
       <div className="relative h-screen bg-cover bg-center flex items-center justify-center text-white">
         <video 
           className="absolute inset-0 w-full h-full object-cover"
-          src="/aboutpage.mp4" 
+          src="/aboutus.mov" 
           autoPlay 
           loop 
           muted 

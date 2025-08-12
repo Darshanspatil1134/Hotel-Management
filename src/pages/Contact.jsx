@@ -7,7 +7,7 @@ function Contact() {
    <div className="relative h-screen bg-cover bg-center flex items-center justify-center text-white">
         <video 
           className="absolute inset-0 w-full h-full object-cover"
-          src="/contact.mp4" 
+          src="/contact.mov" 
           autoPlay 
           loop 
           muted 
